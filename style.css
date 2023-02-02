@@ -8,7 +8,18 @@ h1 {
     text-align: center;
     font-weight: 700;
 }
-ul {
+h2 {
+    font-size: 44px;
+    font-weight: 700;
+}
+.description {
+    text-align: center;
+}
+h3 {
+    font-size: 34px;
+    font-weight: 700;
+}
+.homepagelist {
     list-style-type: none;
     text-align: center;
     font-size: 44px;
@@ -16,4 +27,7 @@ ul {
 img {
     height: auto;
     width: 700px;
+}
+div {
+    text-align: center;
 }
