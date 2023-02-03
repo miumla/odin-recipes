@@ -31,3 +31,10 @@ img {
 div {
     text-align: center;
 }
+ol, p, ul {
+    font-size: 22px;
+    line-height: 2em;
+}
+ol {
+    list-style-type: decimal;
+}
